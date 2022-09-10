@@ -6,8 +6,8 @@
 </div>
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="KEENNEEDYY-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" alt="KEENNEEDYY-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="KEENNEEDYY-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" alt="KEENNEEDYY-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
   
   ##
