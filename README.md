@@ -1,6 +1,6 @@
 ### E ae, eu sou o Kennedy Leocadio!
 <div align="center">
-  <a href="https://giuthub.com/KEENNEEDYY">
+  <a href="">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=KEENNEEDYY&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEENNEEDYY&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
