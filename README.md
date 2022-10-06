@@ -1,4 +1,5 @@
-### E ae, eu sou o Kennedy Leocadio!
+### Bem vindo, eu sou o Kennedy!
+### Fique a vontade em me adicionar, verificar meus códigos, qualquer dúvida não se acanhe em me chamar !!!
 <div align="center">
   <a href="">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=KEENNEEDYY&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
