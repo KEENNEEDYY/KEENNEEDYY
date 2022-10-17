@@ -21,7 +21,13 @@
 
 </div>
 
+  <p align="center"> 
+  Acesse meu cartão !
+  <br>
+  
   <a href="https://keenneedyy.github.io/introduction-minicard/"> 
-      <img align="center" src="">
+      <img width="420px" align="center" src="./2022-10-17_10-35-26.gif">
   </a>
+  
+  </p>
   
