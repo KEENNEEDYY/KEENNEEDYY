@@ -1,9 +1,9 @@
-### Bem vindo, eu sou o Kennedy!
-### Fique a vontade em me adicionar, verificar meus códigos, qualquer dúvida não se acanhe em me chamar!!
+ <h2 style="color: red;">Bem vindo, eu sou o Kennedy!</h2>
+ <h3> Fique a vontade em me adicionar, verificar meus códigos, qualquer dúvida não se acanhe em me chamar!! </h3>
 <div align="center">
   <a href="">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=KEENNEEDYY&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEENNEEDYY&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=KEENNEEDYY&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEENNEEDYY&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="KEENNEEDYY-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
