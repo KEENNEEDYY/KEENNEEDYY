@@ -20,7 +20,7 @@
   <br><br>
   
   <a href="https://keenneedyy.github.io/introduction-minicard/" target="_blank" > 
-      <img width="420px" align="center" src="./2022-10-17_10-35-26.gif">
+      <img width="420px" align="center" class="BorderGrid BorderGrid--spacious" src="./2022-10-17_10-35-26.gif">
   </a>
   </p>
    
