@@ -1,4 +1,4 @@
-
+[
  <div align="center">
  <h2 >Bem vindo, eu sou o Kennedy!</h2>
  <h3 style={{"text-align:justfy;"}}> Fique a vontade em me seguir, verificar meus códigos, qualquer dúvida não se acanhe em me chamar!! </h3>
@@ -19,3 +19,4 @@
 
   
   
+](https://github.com/KEENNEEDYY/dio-lab-open-source/blob/feat/community/KEENNEEDYY/community/KEENNEEDYY.md)https://github.com/KEENNEEDYY/dio-lab-open-source/blob/feat/community/KEENNEEDYY/community/KEENNEEDYY.md
