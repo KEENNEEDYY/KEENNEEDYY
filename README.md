@@ -40,8 +40,8 @@ Olá, eu sou o Kennedy. Tenho formação em Sistemas de Informação e desde jov
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEENNEEDYY&theme=transparent&bg_color=30,000,0009&border_color=6DB33F&show_icons=true&icon_color=EC2025&hide_title=true&text_color=0D8AC7)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KEENNEEDYY&layout=compact&bg_color=30,000,0009&border_color=6DB33F&&hide_title=true&text_color=0D8AC7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEENNEEDYY&theme=transparent&bg_color=30,000,000&border_color=6DB33F&show_icons=true&icon_color=EC2025&hide_title=true&text_color=0D8AC7)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KEENNEEDYY&layout=compact&bg_color=30,000,000&border_color=6DB33F&&hide_title=true&text_color=0D8AC7)
 
 ### Meus Principais Desafios de Projeto
 
