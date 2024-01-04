@@ -5,7 +5,7 @@
     <img alt="KEENNEEDYY-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
     <img alt="KEENNEEDYY-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   </a>
-    <span>Kennedy Costa</span>
+    <span>Desenvolvedor KENNEEDYY</span>
 </h1>
 
 <img align="right" alt="Developer vector created by www.freepik.com" height="380" src="https://raw.githubusercontent.com/KEENNEEDYY/KEENNEEDYY/main/hand-coding-animate-green.svg">
